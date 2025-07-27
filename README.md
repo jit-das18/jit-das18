@@ -1,7 +1,7 @@
 <h1 align="center"> 💫 Hi 👋, I'm Jit Das</h1>
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200px"height="200px" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXV2OXBhb2Ixd21kYnd2ZHlvanFtMmh0ZjBjY3ppcjdvdDZrM2NneCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" width="300px"height="300px" align="center">
 </p>
 <h3 align="center"><b>A passionate Web Developer || Software Engineer</b></h3>
 
