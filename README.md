@@ -4,19 +4,17 @@
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200px"height="200px" align="center">
 </p>
 <h3 align="center"><b>A passionate Web Developer || Software Engineer</b></h3>
-Email Me 👉 ✉️ **jitdas662@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <br><br>
 
+- 🤝 I’m looking for help with **open source project**
 
-- 🔭 **I m currently studying**
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 💬 Ask me about **anything related technology😊..**
+
+- 📫 How to reach me : **jitdas662@gmail.com**
+
+- ⚡ Fun fact : **I believe console.log() is a developer's most loyal companion😁.**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jit_das18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JitDas639763) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitdas662@gmail.com) 
