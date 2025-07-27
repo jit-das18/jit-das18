@@ -1,4 +1,4 @@
-<h1 align="center"> 💫 Hi 👋, I'm Jit Das</h1>
+<h1 align="center"> 💫 Hi 👋, I'm Jit..</h1>
 <br>
 <p align="center">
 <img src="ezgif.com-animated-gif-maker.gif" width="300px"height="300px" align="center">
